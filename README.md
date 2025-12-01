@@ -2,7 +2,7 @@
 
 Hi! I'm Zunaira, a passionate learner who loves exploring technology and building useful projects. I enjoy solving problems, learning new skills, and improving step by step.
 
-💻 What I’m Interested In
+-> What I’m Interested In
 
 Python Programming
 
@@ -12,7 +12,7 @@ Creating simple and creative projects
 
 Learning modern tools and frameworks
 
-🚀 What I Do
+-> What I Do
 
 I practice coding regularly
 
@@ -20,7 +20,7 @@ I build small projects to improve my skills
 
 I explore Python-based web development
 
-📚 Currently Learning
+-> Currently Learning
 
 Python basics & advanced concepts
 
